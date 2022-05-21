@@ -1,0 +1,4 @@
+pandas
+scikit-learn
+django==2.2
+gunicorn
